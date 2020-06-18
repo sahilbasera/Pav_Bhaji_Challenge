@@ -1,0 +1,38 @@
+THURSDAY May 28th 1:00 a.m: Challenge Received
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+FRIDAY 29th : Challenge Accepted! 
+
+
+- Read the instructions , downloaded the data.
+- Analyzed the data.
+- Features that seem important : location, likes, captions, tags.
+
+BASIC  SOLUTION STRUCTURE : read file -> convert to appropriate format -> read photos for label ->build model
+
+CHALLENGES FACED : Don't know a lot JSON, how to extract info. from caption and tags. 
+
+- Researched  JSON
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SATURDAY May 30th :
+
+- Most pav-bhaji eaten in Mumbai. Maybe helpful?
+
+SOLVED : read JSON, extracted info from caption and tags.
+
+CHALLENGES FACED : Bug related to captions and tags, People who don't post pav bhaji pics also use #pavbhaji in caption and tags.
+  
+----------------------------------------------------------------------------------------------------------------------------------
+
+SUNDAY May 31st : 
+
+
+SOLVED :   Both issues of previous day
+
+CHALLENGES FACED : model is bad ( 40-50% accuracy)
+
+- made chances to improve model slightly.
+
+COMPLETED!
